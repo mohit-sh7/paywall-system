@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "f5c693bb-0548-4a81-ab82-2e02835d1260",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1749032494902"
+        }
+      },
+      "favorite": {
+        "name": "Mohit",
+        "color": "color7"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/?directConnection=true",
+        "oidc": {}
+      }
+    }
+  ]
+}
